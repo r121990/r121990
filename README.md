@@ -43,7 +43,7 @@ Além dos projetos em Java, mantenho no repositório estudos e experimentos com 
 ---
 
 ### 🌐 Onde me encontrar
-📫 **LinkedIn:** [linkedin.com/in/rafaelkmohan](https://linkedin.com/in/rafaelkmohan)  
+📫 **LinkedIn:** [linkedin.com/in/rafaelkmohanpaulinopatricio](https://www.linkedin.com/in/rafael-kmohan-paulino-patricio-b1149114a/)  
 💻 **GitHub:** [github.com/r121990](https://github.com/r121990)  
 
 ---
