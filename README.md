@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Rafael Kmohan Paulino Patricio
+# 👋 Olá! Eu sou Rafael Kmohan Paulino Patricio
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas na FATEC-SP**  
 💻 Focado em **Desenvolvimento Backend em Java**, **Cloud Computing** e **DevOps**  
